@@ -11,15 +11,9 @@ Tenho contribuído para diversos projetos, incluind:
 - **Dropbox-clone** - Clone da interface do Dropbox, desenvolvido em Next.js e TypeScript
 Estes projetos demonstram a minha capacidade de desenvolver aplicações completas e funcionais.
 
-## 📈 Estatísticas do GitHu
-🔧 1. GitHub Readme Stats (Commits, linguagens, etc.)
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofsmartins3&show_icons=true&theme=radical)
-Linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofsmartins3&layout=compact&theme=radical)
-💻 2. GitHub Streak Stats (contribuição contínua)
+## 📈 Estatísticas 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=radical)
-🎯 3. Troféus do GitHub (Achievements style)
-[![trophy](https://github-profile-trophy.vercel.app/?username=pedrofsmartins3&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🌐 Conecta-te comigo
 💼 [Portfólio](https://pedro-martins-portfolio.netlifyapp/)
