@@ -26,6 +26,10 @@ Sou um Desenvolvedor de Software apaixonado por criar soluções inovadoras. Ten
 📈 **GitHub Stats**
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=light)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=blue)
+
 
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofsmartins3)](https://github.com/pedrofsmartins3/github-readme-stats)
 
