@@ -1,20 +1,30 @@
-# 👋 Olá, sou o Pedro Martins
-Sou um Desenvolvedor de Software com paixão por criar soluções inovadoras Tenho experiência em desenvolvimento web e mobile, utilizando tecnologias como React, React Native, TypeScript e JavaScript
+👋 Hello, I'm Pedro Martins
+I'm a Software Developer passionate about creating innovative solutions. I have experience in both web and mobile development.
 
-## 🚀 Projetos em Destaque
-Tenho contribuído para diversos projetos, incluind:
-- **Restfull Tax System** - Uma plataforma Tributária com React (JavaScript)
-- **Website with CMS** - Website para uma associação no NIGER desenvolvida com Next.js, TypeScript, Payload CMS, PostgreSQL e Stripe.
-- **Movies-mobile-app** - Uma aplicação móvel desenvolvida com React Native e TypeScript
-- **WooviChallenge** - Desafio técnico utilizando JavaScript
-- **Food-deliveroo-app-clone** - Clone da aplicação Deliveroo, desenvolvido em JavaScript
-- **Dropbox-clone** - Clone da interface do Dropbox, desenvolvido em Next.js e TypeScript
-Estes projetos demonstram a minha capacidade de desenvolver aplicações completas e funcionais.
+🛠️ Tech Stack & Skills
+• **Languages** → JavaScript, TypeScript, C
+• **Front-End** → React, React Native, Next.js, HTML, CSS, Expo
+• **Libraries & Frameworks** → Styled Components, Tailwind CSS, MUI (Material UI), Shadcn, PrimeReact, Headless UI, Rombo, Framer Motion, Nuka Carousel, Embla Carousel, Moti
+• **Back-End** → Node.js, JavaScript, Sanity.io, Firebase, Payload CMS, PostgreSQL
+• **Databases & Cloud** → Sanity.io, Firebase, AWS S3, UploadThing, Vercel, PostgreSQL
+• **Version Control** → Git, GitLab, GitHub
+• **APIs & Services** → REST API, HTTP, Swagger
+• **Design & Prototyping** → Figma
+• **Other Tools** → Jira, Clockify
 
-## 📈 Estatísticas 
+🚀 Featured Projects
+I've contributed to several** projects, including:
+• **Restfull Tax System** → A tax platform built with React (JavaScript)
+• **Website with CMS** → A website for an association in NIGER developed with Next.js (TypeScript), Payload CMS, PostgreSQL, and Stripe
+• **Movies-mobile-app** → A mobile application developed with React Native (TypeScript)
+• **WooviChallenge** → A technical challenge using React (JavaScript)
+• **Food-deliveroo-app-clone** → A clone of the Deliveroo app React Native (JavaScript)
+• **Dropbox-clone** → A clone of Dropbox’s interface developed with Next.js (TypeScript)
+
+📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=radical)
 
+🌐 Connect with Me
+💼 Portfolio
+💼 LinkedIn
 
-## 🌐 Conecta-te comigo
-💼 [Portfólio](https://pedro-martins-portfolio.netlifyapp/)
-💼 [LinkedIn](https://www.linkedin.com/in/pedrofsmarins3/)
