@@ -1,54 +1,31 @@
-👋 Hello, I'm Pedro Martins
+👋 _**Olá, eu sou Pedro Martins**_
+Sou um Desenvolvedor de Software apaixonado por criar soluções inovadoras. Tenho experiência tanto no desenvolvimento web quanto mobile, com foco em performance, usabilidade e design moderno.
 
-I'm a Software Developer passionate about creating innovative solutions. I have experience in both web and mobile development.
+🛠️ **Tech Stack & Habilidades**
+👨‍💻 Linguagens - JavaScript, TypeScript, C
+🎨 Front-End - React, React Native, Next.js, HTML, CSS, Expo
+🧩 Frameworks & Bibliotecas - Styled Components, Tailwind CSS, MUI (Material UI), Shadcn, PrimeReact, Headless UI, Rombo, Framer Motion, Nuka Carousel, Embla Carousel, Moti
+🖥️ Back-End- Node.js, JavaScript, Sanity.io, Firebase, Payload CMS, PostgreSQL
+☁️ Banco de Dados & Cloud - Sanity.io, Firebase, AWS S3, UploadThing, Vercel, PostgreSQL
+🔧 Controle de Versão - Git, GitHub, GitLab
+🔌 APIs & Serviços - REST API, HTTP, Swagger
+🧠 Design & Prototipagem - Figma
+🛠️ Outras Ferramentas - Jira, Clockify
 
-
-🛠️ Tech Stack & Skills
-
-• **Languages** → JavaScript, TypeScript, C
-
-• **Front-End** → React, React Native, Next.js, HTML, CSS, Expo
-
-• **Libraries & Frameworks** → Styled Components, Tailwind CSS, MUI (Material UI), Shadcn, PrimeReact, Headless UI, Rombo, Framer Motion, Nuka Carousel, Embla Carousel, Moti
-
-• **Back-End** → Node.js, JavaScript, Sanity.io, Firebase, Payload CMS, PostgreSQL
-
-• **Databases & Cloud** → Sanity.io, Firebase, AWS S3, UploadThing, Vercel, PostgreSQL
-
-• **Version Control** → Git, GitLab, GitHub
-
-• **APIs & Services** → REST API, HTTP, Swagger
-
-• **Design & Prototyping** → Figma
-
-• **Other Tools** → Jira, Clockify
-
-
-🚀 Featured Projects
-
-I've contributed to several** projects, including:
-
-• **Restfull Tax System** → A tax platform built with React (JavaScript)
-
-• **Website with CMS** → A website for an association in NIGER developed with Next.js (TypeScript), Payload CMS, PostgreSQL, and Stripe
-
-• **Movies-mobile-app** → A mobile application developed with React Native (TypeScript)
-
-• **WooviChallenge** → A technical challenge using React (JavaScript)
-
-• **Food-deliveroo-app-clone** → A clone of the Deliveroo app React Native (JavaScript)
-
-• **Dropbox-clone** → A clone of Dropbox’s interface developed with Next.js (TypeScript)
-
+🚀 **Projetos em Destaque**
+• Restfull Tax System – Plataforma de impostos com React (JavaScript)
+• Website com CMS – Site institucional para uma associação no NIGER com Next.js (TypeScript), Payload CMS, PostgreSQL e Stripe
+• Movies Mobile App – Aplicativo mobile com React Native (TypeScript)
+• Woovi Challenge – Desafio técnico com React (JavaScript)
+• Food Deliveroo App Clone – Clone do app Deliveroo com React Native (JavaScript)
+• Dropbox Clone – Interface semelhante ao Dropbox com Next.js (TypeScript)
 
 📈 GitHub Stats
+Você pode mudar o tema do quadro de estatísticas assim:
+![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=radical)
 
-
-🌐 Connect with Me
-
-💼 Portfolio
-
+🌐 **Conecte-se Comigo**
+💼 Portfólio
 💼 LinkedIn
 
