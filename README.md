@@ -26,8 +26,7 @@ Sou um Desenvolvedor de Software apaixonado por criar soluções inovadoras. Ten
 📈 **GitHub Stats**
 
 Você pode mudar o tema do quadro de estatísticas assim:
-![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=dark&hide_border=true&show_icons=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=dark)
 
 🌐 **Conecte-se Comigo**
 
