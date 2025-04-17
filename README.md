@@ -1,7 +1,9 @@
 👋 _**Olá, eu sou Pedro Martins**_ 
+
 Sou um Desenvolvedor de Software apaixonado por criar soluções inovadoras. Tenho experiência tanto no desenvolvimento web quanto mobile, com foco em performance, usabilidade e design moderno.
 
 🛠️ **Tech Stack & Habilidades**
+
 👨‍💻 Linguagens - JavaScript, TypeScript, C
 🎨 Front-End - React, React Native, Next.js, HTML, CSS, Expo
 🧩 Frameworks & Bibliotecas - Styled Components, Tailwind CSS, MUI (Material UI), Shadcn, PrimeReact, Headless UI, Rombo, Framer Motion, Nuka Carousel, Embla Carousel, Moti
@@ -13,6 +15,7 @@ Sou um Desenvolvedor de Software apaixonado por criar soluções inovadoras. Ten
 🛠️ Outras Ferramentas - Jira, Clockify
 
 🚀 **Projetos em Destaque**
+
 • Restfull Tax System – Plataforma de impostos com React (JavaScript)
 • Website com CMS – Site institucional para uma associação no NIGER com Next.js (TypeScript), Payload CMS, PostgreSQL e Stripe
 • Movies Mobile App – Aplicativo mobile com React Native (TypeScript)
@@ -20,12 +23,14 @@ Sou um Desenvolvedor de Software apaixonado por criar soluções inovadoras. Ten
 • Food Deliveroo App Clone – Clone do app Deliveroo com React Native (JavaScript)
 • Dropbox Clone – Interface semelhante ao Dropbox com Next.js (TypeScript)
 
-📈 GitHub Stats
+📈 **GitHub Stats**
+
 Você pode mudar o tema do quadro de estatísticas assim:
-![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pedrofsmartins3&theme=dark&hide_border=true&show_icons=true)
 
 
 🌐 **Conecte-se Comigo**
+
 💼 Portfólio
 💼 LinkedIn
 
