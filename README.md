@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, sou o Pedro Martins
+Sou um Desenvolvedor de Software com paixão por criar soluções inovadoras Tenho experiência em desenvolvimento web e mobile, utilizando tecnologias como React, React Native, TypeScript e JavaScript
 
-<!--
-**pedrofsmartins3/pedrofsmartins3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projetos em Destaque
+Tenho contribuído para diversos projetos, incluind:
 
-Here are some ideas to get you started:
+- **movies-mobile-app** Uma aplicação móvel desenvolvida com React Native e TypeScrip.
+- **wooviChallenge** Desafio técnico utilizando JavaScrip.
+- **food-deliveroo-app-clone** Clone da aplicação Deliveroo, desenvolvido em JavaScrip.
+- **dropbox-clone** Clone da interface do Dropbo.
+Estes projetos demonstram a minha capacidade de desenvolver aplicações completas e funcionai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas do GitHu
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrofsmartins3&show_icons=true&theme=radicl)
+
+## 🌐 Conecta-te comigo
+
+ 🌍 Porugal- 💼 [Portfólio](https://pedro-martins-portfolio.netlifyapp/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedrofsmarins3/)
+---
+
+Este README destaca a tua experiência e projetos de forma clara e profisional. Podes personalizá-lo conforme necessário. 
