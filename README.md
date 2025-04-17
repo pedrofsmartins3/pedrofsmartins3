@@ -1,30 +1,30 @@
-👋 _**Olá, eu sou Pedro Martins**_ 
+👋 **Hi, I'm Pedro Martins**
 
-Sou um Desenvolvedor de Software apaixonado por criar soluções inovadoras. Tenho experiência tanto no desenvolvimento web quanto mobile, com foco em performance, usabilidade e design moderno.
+I'm a Software Developer passionate about creating innovative solutions. I have experience in both web and mobile development, with a strong focus on performance, usability, and modern design.
 
 
-🛠️ **Tech Stack & Habilidades**
+🛠️ **Tech Stack & Skills**
 
 💻 JavaScript, TypeScript, C, React, React Native, Next.js, HTML, CSS, Expo;
 
 🧩 Styled Components, Tailwind CSS, MUI (Material UI), Shadcn, PrimeReact, Headless UI, Rombo, Framer Motion, Nuka Carousel, Embla Carousel, Moti;
 
-🖥️ Node.js, JavaScript, Sanity.io, Firebase, Payload CMS  Sanity.io, Firebase, AWS S3, UploadThing, Vercel, PostgreSQL;
+🖥️ Node.js, JavaScript, Sanity.io, Firebase, Payload CMS, AWS S3, UploadThing, Vercel, PostgreSQL;
 
 🔧 Git, GitHub, GitLab, REST API, HTTP, Swagger, Figma, Jira, Clockify;
 
 
-🚀 **Projetos em Destaque**
+🚀 **Featured Projects**
 
-• Restfull Tax System – Plataforma de impostos com React (JavaScript)
+• Restfull Tax System – Tax platform built with React (JavaScript)
 
-• Website com CMS – Site institucional para uma associação no NIGER com Next.js (TypeScript), Payload CMS, PostgreSQL e Stripe
+• CMS Website – Website for an association in NIGER using Next.js (TypeScript), Payload CMS, PostgreSQL and Stripe
 
-• Movies Mobile App – Aplicativo mobile com React Native (TypeScript)
+• Movies Mobile App – Mobile app built with React Native (TypeScript)
 
-• Food Deliveroo App Clone – Clone do app Deliveroo com React Native (JavaScript)
+• Food Deliveroo App Clone – Deliveroo app clone with React Native (JavaScript)
 
-• Dropbox Clone – Interface semelhante ao Dropbox com Next.js (TypeScript)
+• Dropbox Clone – Dropbox-like interface using Next.js (TypeScript)
 
 
 📈 **GitHub Stats**
@@ -32,11 +32,11 @@ Sou um Desenvolvedor de Software apaixonado por criar soluções inovadoras. Ten
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedrofsmartins3&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 
-🌐 **Conecte-se Comigo**
+🌐 **Contact Me**
 
-💼 Portfólio https://pedro-martins-portfolio.netlify.app/
+💼 _Portfolio_ - https://pedro-martins-portfolio.netlify.app/
 
-💼 LinkedIn https://www.linkedin.com/in/pedrofsmartins3/
+💼 _Linkedin_ - https://www.linkedin.com/in/pedrofsmartins3/
 
-📩 Email pedrofsmartins3@gmail.com
+📩 _Email_ - pedrofsmartins3@gmail.com
 
